@@ -6,11 +6,11 @@
 
 <p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img width="50px" src="https://user-images.githubusercontent.com/2730609/49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="50px" src="https://user-images.githubusercontent.com/2730609/49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 </p>
 
 ## Estatísticas do meu GitHub
