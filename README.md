@@ -1,6 +1,6 @@
 ## Olá devs, sou o Lucas Pessutto 👋
 
-<p>Atualmente tenho 25 anos, estagiando na área de desenvolvimento WEB, utilizando o Angular como principal framework para trabalho, estou gostando muito da área de programação e espero evoluir todos os dias.</p>
+<p>Atualmente tenho 25 anos, estagiando na área de desenvolvimento WEB, utilizando o Angular como principal framework para o trabalho Front end, e me especializando na área de testes automatizados, utilizando a técnica de BDD para documentar os projetos e o Cypress como principal framework para testes e2e, uso o Postman para os testes de API e o CodeceptJS com o Appium para testes de aplicação mobile, estou gostando muito da área de desenvolvimento e automação e espero evoluir todos os dias.</p>
 
 ## Tecnologias e Ferramentas
 
